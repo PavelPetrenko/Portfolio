@@ -1,0 +1,16 @@
+Bag1
+
+Summary.
+The titles "Create a new folder" and "Delete" are confused in the app
+
+Description.
+Steps to reproduce: 
+1) Launch application "File Manager" 
+2) Create a new folder or delete a file 
+
+Expected result:
+"Create a new folder" icon has "New folder" title. "Delete" icon has a "Delete" title. 
+Actual result: 
+"Delete" icon has "New folder" title. "Create a new folder" has "Delete" title.
+
+Severity: major

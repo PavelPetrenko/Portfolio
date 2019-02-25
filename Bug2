@@ -1,0 +1,17 @@
+Bag2
+
+Summary.
+There are no "close", "minimize" or "maximize" buttons available in the app.
+
+
+Description.
+Steps to reproduce: 
+1) Launch application "File Manager"; 
+2) Close, minimize or maximize the app. 
+
+Expected result:
+There are "close", "minimize" or "maximize" buttons in the app. 
+Actual result: 
+There are no buttons "close", "minimize" or "maximize" available in the app.
+
+Severity: normal
